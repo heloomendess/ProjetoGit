@@ -7,3 +7,10 @@ Olá, eu estou aprendendo a mexer no Git e no GitHub!
 5. Checar status novamente (git status).
 
 Mudar master para main (git branch -M "main")
+Para adicionar ao GitHub (git remote add origin <link do git hub>)
+
+Para comitar novos arquivos e alterações:
+1. (git add .)
+2. (git status)
+3. (git commit -m "alteração)
+4. (git push origin main)
