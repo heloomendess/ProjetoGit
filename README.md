@@ -12,5 +12,5 @@ Para adicionar ao GitHub (git remote add origin <link do git hub>)
 Para comitar novos arquivos e alterações:
 1. (git add .)
 2. (git status)
-3. (git commit -m "alteração)
+3. (git commit -m "alteração")
 4. (git push origin main)
